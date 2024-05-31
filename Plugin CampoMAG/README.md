@@ -3,6 +3,7 @@ El plugin CampoMAG de QGIS fue desarrollado para apoyar la captura, estructuraci
 <p align="center">  <img src="https://github.com/WilliamFelipeHuertasGarcia/Herramientas_LADM_COL_y_MAG_ANLA/blob/main/Plugin%20CampoMAG/img/Herramientas.PNG" width="500"/> </p>
 <p align="center">  <img src="https://github.com/WilliamFelipeHuertasGarcia/Herramientas_LADM_COL_y_MAG_ANLA/blob/main/Plugin%20CampoMAG/img/CapasDispositivo.png" width="500"/> </p>
 <p align="center">  <img src="https://github.com/WilliamFelipeHuertasGarcia/Herramientas_LADM_COL_y_MAG_ANLA/blob/main/Plugin%20CampoMAG/img/CapasDispositivo02.png" width="500"/> </p>
+
 # Requisitos.
 -	Tener instalado y habilitado el plugin de QField dentro de QGIS.
 -	Contar con PostgreSQL junto la extensión de PostGIS.
