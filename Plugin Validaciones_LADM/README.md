@@ -1,6 +1,7 @@
 # Descripción.
 El plugin Validaciones_LADM fue creado para facilitar la identificación de inconsistencias en la estructuración de la información almacenada dentro de una base de datos de PostgreSQL que almacene el modelo LADM Col Lev. Catastral 1.2. garantizando la consistencia lógica y temática de la misma.
 El plugin realiza 43 validaciones de calidad de la información generando reportes en formato Excel con cada uno de los registros que presentan inconsistencias dentro de la base de datos. Permitiendo reducir los tiempos y procesos de revisión de calidad.
+<p align="center">  <img src="https://github.com/WilliamFelipeHuertasGarcia/Herramientas_LADM_COL_y_MAG_ANLA/blob/main/Plugin%20Validaciones_LADM/img/Plugin01.PNG" width="500"/> </p>
 # Pasos para la instalación
 1.	Instalar la librería XlsxWriter dentro del entorno Python de QGIS
 1.1.	Desde la barra de navegación del pc buscar ‘OSGeo4W Shell’ y escribir el comando pip install xlsxwrite
