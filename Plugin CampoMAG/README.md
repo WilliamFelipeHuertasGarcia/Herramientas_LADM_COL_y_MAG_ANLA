@@ -12,3 +12,6 @@ El plugin CampoMAG de QGIS fue desarrollado para apoyar la captura, estructuraci
 1.1.	Desde la ventana de complementos escoja la opción ‘Instalar a partir de ZIP’ seleccione el archivo y escoja la opción ‘Instalar complemento’
 Nota. Recuerde habilitar el complemento si este no se visualiza
 <p align="center">  <img src="https://github.com/WilliamFelipeHuertasGarcia/Herramientas_LADM_COL_y_MAG_ANLA/blob/main/Plugin%20Validaciones_LADM/img/Instala01.PNG" width="500"/> </p>
+
+Trabajo Escrito.
+https://repository.udistrital.edu.co/items/fb9a56fb-ad36-429d-92fc-4527063f75f0
